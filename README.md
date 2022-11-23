@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in North Macedonia
-* ✉️  You can contact me at [navycrack1](mailto:drilonsl305@gmail.com)
+
 * 🧠  I'm learning React js
 
 ### Skills
